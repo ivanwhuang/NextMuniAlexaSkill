@@ -3,6 +3,7 @@
 An Amazon Alexa skill that uses NextBus API to return prediction times for any given San Francisco Muni bus, stop, and direction.
 
 ## Demo
+![Example 1](https://github.com/younghuangbao/NextMuniAlexaSkill/master/demoImages/test1.png)
 
 ## Built With
 
