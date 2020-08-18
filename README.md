@@ -2,6 +2,10 @@
 
 An Amazon Alexa skill that uses NextBus API to return a voice output of prediction times for any given San Francisco Muni bus, stop, and direction.
 
+Only works with bus tags that have strictly numeric values (for instance 8, 14, 30). Bus tags such as 14R and the N will not work. 
+
+Valid stop names can be found on https://www.nextbus.com/
+
 ## Demo
 
 ### Examples
