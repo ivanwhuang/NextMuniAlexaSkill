@@ -6,6 +6,8 @@ Only works with bus tags that have strictly numeric values (for instance 8, 14, 
 
 Valid stop names can be found on https://www.nextbus.com/
 
+Try it out on your Alexa! [Enable Skill](https://www.amazon.com/Student-NextMuni-Alexa-Skill/dp/B08GC3TVZB/ref=sr_1_1?dchild=1&keywords=nextmuni&qid=1601589808&s=digital-skills&sr=1-1)
+
 ## Demo
 
 ### Examples
